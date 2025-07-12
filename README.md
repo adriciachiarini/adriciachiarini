@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-Olá, eu sou a Adrícia! Estou estudando para ser uma pessoa desenvolvedora FullStack, atualmente estou aprendendo e criando projetos com:
+Olá, eu sou a Adrícia! Estou estudando para ser uma pessoa desenvolvedora FullStack, faço curso no DevClub e superior em Análise e Desenvolvimento de Sistemas ba PUC-PR (EAD), atualmente estou aprendendo e criando projetos com:
 <br> <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
